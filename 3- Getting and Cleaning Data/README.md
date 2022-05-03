@@ -17,7 +17,7 @@ Find below the links to script, tidy data and the codebook for the project.
 |Description|Name|Link|
 |---|---|---|
 |R Script for the Project|run_analysis.R|[R Script](https://github.com/hairsprayq/Data_Science_Specialization/blob/6d7c9f4bace35a1cb9f1e4fdab8a95750a623310/3-%20Getting%20and%20Cleaning%20Data/run_analysis.R)|
-|Tidy Data|TidyData.txt|[Tidy Data]()|
+|Tidy Data|TidyData.txt|[Tidy Data](https://github.com/hairsprayq/Data_Science_Specialization/blob/46f986e8862dcc557452538512877aa08706622b/3-%20Getting%20and%20Cleaning%20Data/TidyData.txt)|
 |Codebook|CodeBook.md|[Codebook]()|
 
 
