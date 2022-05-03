@@ -28,4 +28,4 @@ The goal of the project is:
 
 - From the data set in step 4, create a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-The links to the script created to perform the steps described above and the tidy data set can be found below in [README.md]()
+The links to the script created to perform the steps described above and the tidy data set can be found below in [README.md](https://github.com/hairsprayq/Data_Science_Specialization/blob/ca3fc599a0aa75683051fa7559abd2273614a221/3-%20Getting%20and%20Cleaning%20Data/README.md)
